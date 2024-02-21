@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049043976149",
+    "project_id": "happify-83672",
+    "storage_bucket": "happify-83672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049043976149:android:cf0fde69a8741d62f3875c",
+        "android_client_info": {
+          "package_name": "com.example.happify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCweh7w6RTDKQBU4L2u_Enlq5icwRMj_NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049043976149:android:cfd4880dc30a6f4cf3875c",
+        "android_client_info": {
+          "package_name": "com.flutter.happify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCweh7w6RTDKQBU4L2u_Enlq5icwRMj_NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
